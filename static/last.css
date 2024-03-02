@@ -1,0 +1,48 @@
+/* last.css */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/011/426/596/original/dark-tangerine-abstract-low-polygon-background-vector.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #000;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.password-info {
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0px 20px rgba(10, 10, 10, 10);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+}
+
+.password-info p {
+    margin: 0;
+    padding: 5px 0;
+}
+
+.password-info p strong {
+    font-weight: bold;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #060606;
+}
+
+a:hover {
+    color: #0056b3;
+}
