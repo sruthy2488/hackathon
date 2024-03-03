@@ -18,7 +18,7 @@ secure way to organize and access passwords, reducing the risk of forgetting or 
 - Secure authentication process using usernames and passwords stored in a MySQL database.
 
 ### Password Storage
-- Users can add, edit, and delete passwords for different websites or online services.
+- Users can add passwords for different websites or online services.
 - Passwords are securely stored in the database using encryption techniques to protect sensitive information.
 
 ### Search Functionality
