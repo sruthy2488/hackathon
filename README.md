@@ -33,11 +33,10 @@ secure way to organize and access passwords, reducing the risk of forgetting or 
 
 1. *User Registration*: New users can create an account by providing a username and password. Existing users can log in using their credentials.
 
-2. *Password Management*: Once logged in, users can add new passwords for websites or online services by entering the website URL, username, and password. They can also
-3.  edit or delete existing passwords as needed.
+2. *Password Management*: Once logged in, users can add new passwords for websites or online services by entering the website URL, username, and password. 
 
-4. *Search and Access*: Users can search for passwords using the search bar and access the desired credentials with ease. The search functionality allows users to quickly
-5.  find specific passwords without scrolling through the entire list.
+4. *Search and Access*: Users can search for passwords  The search functionality allows users to quickly
+5.  find specific passwords.
 
 6. *Security*: Passwords are stored securely in the database using encryption techniques, ensuring that sensitive information remains protected. User authentication prevents
 7. unauthorized access to the password manager.
