@@ -1,7 +1,11 @@
 TINK-HER-HACK 2.0
 Project : Password Management System
 
-This project involves creating a password management system using HTML and CSS for the frontend, Flask (a web framework in Python) for the backend, and SQL for the database. 
+PROBLEM:In the digital age, managing passwords for various online accounts has become a challenging task. Users often resort to using weak passwords or reusing passwords across multiple accounts, which can compromise their security. As a result, there is a growing need for secure password management solutions that can store and retrieve passwords safely.
+
+STACK:This project involves creating a password management system using HTML and CSS for the frontend, Flask (a web framework in Python) for the backend, and SQL for the database.
+
+PROBLEM SOLUTION:
 We will provide a login page with fields for username and password, leading to a menu with options to add and get passwords. If the password or username is incorrect invalid 
 message will be displayed.Users will be prompted to provide their username, website address, and password if they choose to add a password. If the user selects the option 
 to get a password, they will be asked for the website address to display the password. If the password is incorrect or the website is not found, an appropriate message will 
